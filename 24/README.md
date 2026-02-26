@@ -1,7 +1,7 @@
 
 
 This repositry is based on Leo's bonus exercises for the LibreLane 
-template for SG14G2 process
+template for SG13G2 process
 
 # Full chip design using 24 pins padframe
 
